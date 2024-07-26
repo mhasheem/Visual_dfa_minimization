@@ -1,11 +1,4 @@
 # Visual_dfa_minimization
-Here's a concise README file for your Deterministic Finite Automaton (DFA) minimization project:
-
----
-
-# DFA Minimization
-
-## Overview
 
 This project provides a solution for minimizing Deterministic Finite Automata (DFA). The tool accepts a DFA, performs minimization to eliminate redundant states, and outputs the minimized DFA along with its graphical representation. The core functionality includes:
 
